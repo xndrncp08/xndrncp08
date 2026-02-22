@@ -58,13 +58,6 @@ A full-stack Formula 1 analytics app with live driver stats, race calendars, and
 
 ---
 
-### 🏙️ YYC Track *(Capstone — In Progress)*
-> **React · Node.js · Express · MongoDB · Azure CDN**
-
-A web platform for real-time feedback and CEI ratings. Designed the MongoDB schemas, built the React frontend, and deployed on Vercel with Azure CDN for scale.
-
----
-
 ### 🏀 [Basketbol](https://github.com/xndrncp08)
 > **Next.js · React · JavaScript · Tailwind CSS**
 
