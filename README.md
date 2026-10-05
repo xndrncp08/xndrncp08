@@ -62,13 +62,6 @@ A community chat app built for Filipino gamers, student orgs, and creators. Real
 
 ---
 
-### 💈 [Master M Barbershop](https://github.com/xndrncp08/Master-M_Barbershop) — Website & Online Booking · [live](https://master-m-barbershop.vercel.app)
-> **Next.js · TypeScript · Tailwind CSS · Framer Motion · Zod · Vitest · Playwright**
-
-A real site for a real Calgary barbershop. Multi-step booking flow with a slot picker, live barber availability, a service/pricing catalog, hours that respect Calgary time, rate-limited API routes, and JSON-LD for SEO. Yes, there's confetti when you book.
-
----
-
 ### 📈 [BullScript](https://github.com/xndrncp08/Bullscript) — Market Intelligence Terminal
 > **React · TypeScript · Vite · FastAPI · XGBoost · FinBERT · yfinance**
 
