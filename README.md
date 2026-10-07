@@ -55,7 +55,7 @@ Drop in a song, get a starting-point guitar tone back — amp, cab, pedal chain,
 
 ---
 
-### 🇵🇭 [Diskarte](https://github.com/xndrncp08/Diskarte) — Open-Source Discord Alternative for the Philippines · [early access](https://diskarte-early-access-portal.vercel.app)
+### 🇵🇭 [Diskarte](https://diskarte-ten.vercel.app/) — Open-Source Discord Alternative for the Philippines · [early access](https://diskarte-early-access-portal.vercel.app)
 > **Next.js 16 · Supabase (RLS) · LiveKit · Playwright · Vitest · Docker**
 
 A community chat app built for Filipino gamers, student orgs, and creators. Realtime text in "Tambayans" (community spaces), voice/video/screen share through LiveKit, friends + DMs, a Bantay-Bayan moderation system, and an early-access waitlist with an admin approval flow. Monorepo with two apps on one shared Supabase database, plus the boring-but-important stuff: rate limiting, CSRF protection, CAPTCHA, honeypots.
@@ -113,7 +113,7 @@ Trained and evaluated classifiers to flag malicious Android apps: grid-searched 
 
 ### 🏆 the bigger ones
 
-### 🏎️ [F1Dash](https://github.com/xndrncp08) — AI-Powered F1 Analytics & Prediction Platform
+### 🏎️ [FJuan](https://f-juan.vercel.app/) — AI-Powered F1 Analytics & Prediction Platform
 > **Next.js · TypeScript · React Query v5 · Tailwind CSS · Recharts · Groq (Llama 3) · OpenF1 API**
 
 A full-stack F1 analytics platform with a weighted prediction engine and an AI chatbot ("Nacho Bot") that reasons over live prediction data to answer race questions. Upgraded the prediction model from 4 to 8 factors, with radar/distribution charts to keep the expanded output readable, and a visual race grid for fast navigation across hundreds of historical sessions.
